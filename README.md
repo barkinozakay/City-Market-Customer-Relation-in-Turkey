@@ -1,5 +1,4 @@
 # City-Market-Customer-Relation-in-Turkey
-A basic full stack application for supermarket shopping in Turkey.
 
 First, you have to have a solution stack. I suggest you to download "ampps" (https://www.ampps.com/). After installing ampps, you need to download this code and move it to the "ampps install directory"/www/. (for ex: "C:\Program Files (x86)\Ampps\www"). 
 
